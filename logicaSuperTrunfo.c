@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-
+    // declaração de variáveis
     char Codigo1[15], Cidade1[15], Codigo2[15], Cidade2[15], Estado1[3], Estado2[3];
     int Populacao1, Populacao2;
     float Areakm1, Pib1, Areakm2, Pib2;
